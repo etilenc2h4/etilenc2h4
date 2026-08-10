@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://lh3.googleusercontent.com/a/ACg8ocLW10D32IJVrsuCM9Jm8-bEaKaJFJK48tTYCHIKg9uBzZfleXDM=s360-c-no" alt="Sakura Rain" style="width: 50%; object-fit: cover; object-position: center 70%;" />
+<img src="truong-da-than.png" alt="Trương Dạ Thần" style="width: 50%; object-fit: cover; object-position: center 70%;" />
 </p>
  
  

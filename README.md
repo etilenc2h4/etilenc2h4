@@ -1,5 +1,5 @@
 <p align="center">
-<img src="truong-da-than.png" alt="Trương Dạ Thần" style="width: 50%; object-fit: cover; object-position: center 70%;" />
+<img src="profile/truong-da-than.png" alt="Trương Dạ Thần" style="width: 60%; object-fit: cover; object-position: center 70%;" />
 </p>
  
  
@@ -8,9 +8,8 @@
 </h1> 
 
 <p align="center">
-  <i>"I resurrect dead Latin words and give them jobs —<br>
-  pulling forgotten language out of old books and putting it to work <br>
-  quietly inside modern, living, breathing code."</i>
+  <i>"Chẳng mong một đời quá khác người. <br>
+   Chỉ muốn sống bình thường, làm việc mình thích, rồi lặng lẽ làm cho những điều mình muốn trở thành hiện thực."</i>
 </p>
  
 ## 👀 Profile Views

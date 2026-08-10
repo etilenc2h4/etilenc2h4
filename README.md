@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRrNzlmNWsxdmtjNHplZ2J3MTYwZTVpMTJoajlxeGV6a3dhMDlndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8O0UuvKgNPM8t0ZK1e/giphy.gif" alt="Sakura Rain" style="width: 50%; object-fit: cover; object-position: center 70%;" />
+<img src="https://lh3.googleusercontent.com/a/ACg8ocLW10D32IJVrsuCM9Jm8-bEaKaJFJK48tTYCHIKg9uBzZfleXDM=s360-c-no" alt="Sakura Rain" style="width: 50%; object-fit: cover; object-position: center 70%;" />
 </p>
  
  
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&background=FFFFFF00&lines=Hi+%F0%9F%91%8B%2C+I'm+Nguyen+Hung+Anh" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ph%E1%BA%ADn+t%E1%BA%A1i+thi%C3%AAn%2C+t%C3%A2m+t%E1%BA%A1i+ta" alt="Typing SVG" /></a>
 </h1> 
 
 <p align="center">

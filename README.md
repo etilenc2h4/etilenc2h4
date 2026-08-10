@@ -8,8 +8,7 @@
 </h1> 
 
 <p align="center">
-  <i>"Chẳng mong một đời quá khác người. <br>
-   Chỉ muốn sống bình thường, làm việc mình thích, rồi lặng lẽ làm cho những điều mình muốn trở thành hiện thực."</i>
+  <i>"Thích cuộc sống bình thường, nhưng trong lòng vẫn có vài chuyện muốn làm cho đến nơi đến chốn."</i>
 </p>
  
 ## 👀 Profile Views

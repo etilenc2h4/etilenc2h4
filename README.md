@@ -14,7 +14,7 @@
 </p>
  
 ## 👀 Profile Views
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hung000anh&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="hung000anh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=etilenc2h4&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="etilenc2h4" /> </p>
 
 ## 🏆 GitHub Achievements
 <p align="center">
@@ -62,32 +62,32 @@
 
 
 ## 📊 Stats and Activity
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hung000anh's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Hung000anh&theme=monokai-metallian&hide_border=true&short_numbers=true" height="192px"/>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="etilenc2h4's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=etilenc2h4&theme=monokai-metallian&hide_border=true&short_numbers=true" height="192px"/>
 <!-- Hàng 1: Profile Stats & Top Languages -->
 <p>
-  <img alt="Hung000anh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Hung000anh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img alt="Hung000anh's Top Languages" src="./top-languages.svg" height="192px"/>
+  <img alt="etilenc2h4's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=etilenc2h4&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="etilenc2h4's Top Languages" src="./top-languages.svg" height="192px"/>
 </p>
 
 <!-- Hàng 2: Streak Stats & Activity Graph -->
 <p>
 
-  <img alt="Hung000anh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Hung000anh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&height=300&days=30"/>
+  <img alt="etilenc2h4's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=etilenc2h4&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&height=300&days=30"/>
 </p>
 
 
 ## 🎮 Contributions
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hung000anh/Hung000anh/output/github-arcade-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hung000anh/Hung000anh/output/github-arcade.svg">
-    <img alt="arcade contribution game" src="https://raw.githubusercontent.com/Hung000anh/Hung000anh/output/github-arcade.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/etilenc2h4/etilenc2h4/output/github-arcade-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/etilenc2h4/etilenc2h4/output/github-arcade.svg">
+    <img alt="arcade contribution game" src="https://raw.githubusercontent.com/etilenc2h4/etilenc2h4/output/github-arcade.svg">
   </picture>
 </p>
 
 ## ☕ Support Me
 <p align="left">
-  <a href="https://buymeacoffee.com/hung000anh">
+  <a href="https://buymeacoffee.com/etilenc2h4">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" />
   </a>
 </p>

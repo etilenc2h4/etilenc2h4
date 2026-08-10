@@ -1,0 +1,34 @@
+name: Update Top Languages SVG
+
+on:
+  schedule:
+    - cron: "0 2 * * *" # Tự động chạy lúc 02:00 UTC mỗi ngày
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Top Languages Card
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          token: ${{ secrets.GH_PAT }}
+          card: top-langs
+          username: Hung000anh
+          path: top-languages.svg
+          options: "layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&langs_count=8&hide=html,css,jupyter%20notebook"
+
+      - name: Commit & Push SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add top-languages.svg
+          git commit -m "Update Top Languages SVG" || exit 0
+          git push

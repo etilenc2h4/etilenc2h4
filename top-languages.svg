@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="106.32"
+          width="106.31"
           height="8"
           fill="#b07219"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="106.32"
+          x="106.31"
           y="0"
-          width="58.31"
+          width="58.3"
           height="8"
           fill="#DA5B0B"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="164.63"
+          x="164.61"
           y="0"
-          width="38.73"
+          width="38.75"
           height="8"
           fill="#3178c6"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="203.35999999999999"
+          x="203.36"
           y="0"
-          width="15.84"
+          width="15.83"
           height="8"
           fill="#663399"
         />
@@ -168,7 +168,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="219.2"
+          x="219.19000000000003"
           y="0"
           width="11.12"
           height="8"
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="230.32"
+          x="230.31000000000003"
           y="0"
-          width="10.68"
+          width="10.67"
           height="8"
           fill="#3572A5"
         />
@@ -188,7 +188,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="241"
+          x="240.98000000000002"
           y="0"
           width="19.009999999999998"
           height="8"
@@ -215,7 +215,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 15.49%
+        TypeScript 15.50%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
